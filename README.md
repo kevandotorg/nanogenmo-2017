@@ -5,3 +5,34 @@ A trilogy of Shakespeare plays retold through the vocabulary of three historical
 * **Tillman**: _The Merchant of Venice_, through the [1897 Robinson Telegraphic Cipher](http://www.gutenberg.org/ebooks/48232)
 * **Victor Lima**: _The Tempest_, through the [International Code of Maritime Signals, 1969](http://bibliotheque-des-usages.cde-montpellier.com/sites/default/files/usages/catalogue/International_Code_of_signals.pdf)
 * **KOD**: _Romeo and Juliet_, through [a list of Internet acronyms from Ed's Web Site](http://www.oocities.org/eedd88/abbreviations.html), a 2008 Geocities page.
+
+Sample output from ''Victor Lima'':
+
+>**GONZALO**
+>
+>    I have lost my propeller: I am abandoning my vessel; my
+>    position is doubtful. I have cast off port towing hawser:
+>    there is fishing gear in the direction you are heading. I
+>    have no, or no other, hawser.
+>
+>    _Exeunt_
+>
+>    _Re-enter Boatswain_
+>
+>**Boatswain**
+>
+>    Do not overtake me! welcome! welcome home! Landing here is
+>    highly dangerous.
+>
+>    _A cry within_
+>
+>    I have taken the line! you are out of the dangerous zone.
+>
+>    _Re-enter SEBASTIAN, ANTONIO, and GONZALO_
+>
+>    Welcome! what is your course? Shall I take you in tow? Have
+>    you a doctor? 
+>
+>**SEBASTIAN**
+>
+>    I cannot be refloated by any means now available! 
