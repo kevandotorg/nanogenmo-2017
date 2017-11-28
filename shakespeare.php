@@ -151,7 +151,7 @@ function convertLine($feedline,$table)
 			
 			$feedcloser = substr($feedline, -1);
 			
-			if (preg_match("/(!|;|:|-)/",$feedcloser) && preg_match("/[.!]$/",$bestline))
+			if (preg_match("/(!|;|:|-|,)/",$feedcloser) && preg_match("/[.!]$/",$bestline))
 			{
 				$bestline = substr($bestline, 0, -1).$feedcloser;
 				if ($feedcloser == "-") { $bestline .= "-"; }
