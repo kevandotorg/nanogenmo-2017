@@ -163,7 +163,7 @@ function convertLine($feedline,$table)
 		}
 	}
 
-	if (preg_match("/^ [a-z]/",$feedline) && !preg_match("/^I[' ]/",$bestline))
+	if (preg_match("/^ [a-z]/",$feedline) && !preg_match("/^I[' ]/",$bestline) && !preg_match("/^(No.|St.|January|February|March|April|May|June|July|August|September|October|November|December|Canadian|Canada|Chicago|Illinois|Kansas|Michigan|Milwaukee|New York|Pittsburg|Pennsylvania|Cincinnati|Cleveland|Delaware|Denver|Duluth|Fitchburg|Flint|Grand|Great|Indiana|Iowa|Kansas|Kewaunee|Lake|Lehigh|Louisville|Maine|Memphis|Minneapolis|Minneapolis|Missouri|Missouri|Mobile|Nashville|Ohio|Northern|Omaha|Philadelphia|Rome|Southern|Southern|Texas|Toledo|Texas|Union|Vandalia|Wabash|West|Wisconsin|Erie|Kankakee|Hoosac|Inter|Kanawha|Lackawanna|Lehigh|Ontario|Sarnia|Union|Lackawanna|Lehigh|Minneapolis|Ogdensburg|Bremen|Cunard|Guion|Hamburg|Havre|Inman|Galveston|Rutland|Wheeling|Yazoo|Cumberland|Jersey|Neptune|Pacific|Philadelphia|Scandinavian|United|Virginia|Broomhall)/",$bestline))
 	{ $bestline = lcfirst($bestline); }
 
 	return $direction.$bestline;
