@@ -36,3 +36,9 @@ Sample output from ''Victor Lima'':
 >**SEBASTIAN**
 >
 >    I cannot be refloated by any means now available! 
+
+Generated output (HTML):
+
+* [Tillman](http://kevan.org/nanogenmo/Tillman.html)
+* [Victor Lima](http://kevan.org/nanogenmo/Victor%20Lima.html)
+* [KOD](http://kevan.org/nanogenmo/KOD.html)
