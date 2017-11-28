@@ -7028,7 +7028,7 @@ function telegramTable()
 "11 lbs. or under.",
 "12 lbs. or under.",
 "12 to 14 lbs.",
-"14 to 1 6 lbs.",
+"14 to 16 lbs.",
 "16 to 18 lbs.",
 "18 lbs. or under.",
 "18 to 20 lbs.",
@@ -7269,18 +7269,13 @@ function telegramTable()
 "Bears talk lower prices but lack the nerve to follow conviction.",
 "Bulls seem to have lost courage.",
 "Character of buying too much by scalpers chancing an eighth.",
-".",
 "Character of selling too much by scalpers chancing an eighth.",
-".",
 "Good investment buying; ought to do better.",
 "Looks as if market bulled to sell on.",
 "Higher cables would advance market quickly.",
 "Crowd bearish and short, any bull news will start buying.",
-".",
 "Market of a negative character, without guiding indications.",
-".",
 "Cables conflicting look as if manipulated from this side.",
-".",
 "Leaders selling looks like lower prices.",
 "New York selling freely in this market.",
 "St. Louis selling freely in this market.",
@@ -7296,7 +7291,6 @@ function telegramTable()
 "Holders realizing freely market lacks support.",
 "Lower cables would cause decline.",
 "Crowd bullish and long, any bear news will start selling.",
-".",
 "Lower cables a damper on the market.",
 "Estimated cars wheat for to-morrow.",
 "Estimated cars corn for to-morrow.",
@@ -8209,7 +8203,6 @@ function telegramTable()
 "Wabash.",
 "West Shore.",
 "Wisconsin Central.",
-
 "Blue Line.",
 "Black Line.",
 "Diamond Line.",
@@ -8384,7 +8377,6 @@ function telegramTable()
 "Sight exchange ____ per cent. premium.",
 "Sight exchange par.",
 "Sight exchange ____ per cent. discount.",
-
 "Keep fully insured in good offices.",
 "Effect marine insurance.",
 "At what rate can you insure?",
@@ -8396,7 +8388,6 @@ function telegramTable()
 "Have not insured; consider you have insured in your open policy.",
 "Including marine insurance.",
 "Marine insurance ____ cents per $100.",
-
 "Telegraph when you buy.",
 "Telegraph when you sell.",
 "Telegraph when you ship.",
@@ -8485,7 +8476,6 @@ function telegramTable()
 "Light frost last night.",
 "Weather is warm and pleasant.",
 "Heavy rains in this section of the country.",
-
 "The Hogs arriving are very heavy in weight.",
 "The Hogs arriving are heavier than usual.",
 "The Hogs arriving are mostly light in weight.",
@@ -8632,7 +8622,6 @@ function telegramTable()
 "Norfolk and Western Despatch.",
 "Wabash Erie Despatch.",
 "Wabash O. and W. Route.",
-
 "Ann Arbor Line.",
 "Algoma Central Steamship Line.",
 "Canadian Atlantic Transit Co.",
@@ -8648,7 +8637,6 @@ function telegramTable()
 "Pere Marquette Line.",
 "Rutland Transit Co.",
 "U. S. and Dominion Transportation Co.",
-
 "Atlantic Transport Line.",
 "Canadian Pacific S. S. Line.",
 "Cosmopolitan Line.",
@@ -8743,7 +8731,6 @@ function telegramTable()
 "Rejected Mixed Wheat.",
 "Sample Grade Mixed Wheat.",
 "Straight Country Run Wheat.",
-
 "No. 1 Alberta Red Winter Wheat.",
 "No. 2 Alberta Red Winter Wheat.",
 "No. 3 Alberta Red Winter Wheat.",
@@ -8871,7 +8858,6 @@ function telegramTable()
 "Choice Malting Barley.",
 "Fair Malting Barley.",
 "Common Malting Barley.",
-
 "Mill run Winter Wheat Bran in Bulk.",
 "Mill run Winter Wheat Bran in Sacks.",
 "Mill run Spring Wheat Bran in Bulk.",
@@ -9063,7 +9049,6 @@ function telegramTable()
 "Official weights and grades.",
 "Weights at this end.",
 "Weights at that end.",
-
 "Give us refusal.",
 "We give you refusal.",
 "Including all charges.",
@@ -9128,7 +9113,6 @@ function telegramTable()
 "Subject to our confirmation by wire.",
 "Subject to reply by wire.",
 "Subject to reply by cable.",
-
 "To be shipped to ___.",
 "To be shipped from ___.",
 "By water in bulk.",
