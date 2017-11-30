@@ -37,8 +37,10 @@ Sample output from ''Victor Lima'':
 >
 >    I cannot be refloated by any means now available! 
 
-Generated output (HTML):
+#Generated output (HTML)
 
-* [Tillman](http://kevan.org/nanogenmo/Tillman.html)
-* [Victor Lima](http://kevan.org/nanogenmo/Victor%20Lima.html)
-* [KOD](http://kevan.org/nanogenmo/KOD.html)
+* [Tillman](http://kevan.org/nanogenmo/Tillman-171130.html)
+* [Victor Lima](http://kevan.org/nanogenmo/Victor%20Lima-171130.html)
+* [KOD](http://kevan.org/nanogenmo/KOD-171130.html)
+
+(50,474 words total.)
