@@ -18,7 +18,7 @@ function convertPlay($play,$lookupTable,$newtitle,$oldtitle,$reference)
 	$speechCount = 0; $coupletCount = 0; $inCouplets = 0;
 
 	$inputfile = fopen($play,"r");
-	$outputfile = fopen($newtitle.".html","w");
+	$outputfile = fopen($newtitle."-".date("ymd").".html","w");
 
 	//for ($i=0; $i<50; $i++)
 	while(! feof($inputfile))
